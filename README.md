@@ -24,7 +24,7 @@
 ### Frontend
 
 - [`@Julianv` - Head of UI/UX](https://github.com/Julianvz)
-- [`@MueDen` - Head of Head](https://github.com/MueDen)
+- [`@MueDen` - Head of Deployment](https://github.com/MueDen)
 - [`@hdptrck` - Head of Skifahrer⛷️](https://github.com/hdptrck)
 
 ### Mobile

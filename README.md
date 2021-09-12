@@ -16,22 +16,22 @@
 
 ## Team
 
-### Marketing
+### Marketing & Investor Relations
 
-- [`@NK2992`](https://github.com/NK2992)
-- [`@kinba3000`](https://github.com/kinba3000)
+- [`@NK2992` - Head of Marketing](https://github.com/NK2992)
+- [`@kinba3000` - Head of Investor Relations](https://github.com/kinba3000)
 
 ### Frontend
 
-- [`@Julianv`](https://github.com/Julianvz)
-- [`@MueDen`](https://github.com/MueDen)
-- [`@hdptrck`](https://github.com/hdptrck)
+- [`@Julianv` - Head of UI/UX](https://github.com/Julianvz)
+- [`@MueDen` - Head of Head](https://github.com/MueDen)
+- [`@hdptrck` - Head of Skifahrer⛷️](https://github.com/hdptrck)
 
 ### Mobile
 
-- [`@yannikinniger`](https://github.com/yannikinniger)
+- [`@yannikinniger` - Head of Mobile](https://github.com/yannikinniger)
 
 ### Backend
 
-- [`@michaelbeutler`](https://github.com/michaelbeutler)
-- [`@1H0`](https://github.com/1H0)
+- [`@michaelbeutler` - First-Half Head of Backend](https://github.com/michaelbeutler)
+- [`@1H0` - Second-Half Head of Backend](https://github.com/1H0)
